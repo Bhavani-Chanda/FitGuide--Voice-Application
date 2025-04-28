@@ -1,0 +1,20 @@
+[
+  {
+    "value": "beginner",
+    "synonyms": [
+      "beginner"
+    ]
+  },
+  {
+    "value": "intermediate",
+    "synonyms": [
+      "intermediate"
+    ]
+  },
+  {
+    "value": "expert",
+    "synonyms": [
+      "expert"
+    ]
+  }
+]

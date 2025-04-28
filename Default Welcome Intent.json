@@ -1,0 +1,42 @@
+{
+  "id": "0155c475-4824-486c-804f-db1787e212b4",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi there! I am here to help you to guide for your workout. You can proceed by providing details like muscle type, exercise type or difficulty level training.",
+            "Hello! You can ask me for workout suggestions by providing requirements like muscle type training, difficulty level or any post workout routine.",
+            "Good day! What do you want to know regarding your exercises?",
+            "Greetings! How can I assist you to start your workout?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

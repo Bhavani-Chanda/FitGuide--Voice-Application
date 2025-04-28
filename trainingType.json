@@ -1,0 +1,9 @@
+{
+  "id": "0b58be01-eec4-41b1-93d6-761d98ff304a",
+  "name": "trainingType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

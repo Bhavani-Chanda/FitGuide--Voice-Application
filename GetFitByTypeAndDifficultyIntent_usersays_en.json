@@ -1,0 +1,592 @@
+[
+  {
+    "id": "36a686ae-2e65-454f-85c7-06a9d01309c9",
+    "data": [
+      {
+        "text": "I\u0027m an ",
+        "userDefined": false
+      },
+      {
+        "text": "intermediate",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": false
+      },
+      {
+        "text": " in training. What exercises can help me improve further?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e72b7a90-f1d5-472e-9b3b-1788e4ddb996",
+    "data": [
+      {
+        "text": "I want to advance my ",
+        "userDefined": false
+      },
+      {
+        "text": "Olympic_weightlifting",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": false
+      },
+      {
+        "text": " skills. What are some ",
+        "userDefined": false
+      },
+      {
+        "text": "expert",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": false
+      },
+      {
+        "text": " exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "355de51f-471f-415d-913d-af781116b5b2",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "beginner",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "strongman",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": false
+      },
+      {
+        "text": " exercises can I start with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df977bcf-04c4-45d6-92eb-db33155e4166",
+    "data": [
+      {
+        "text": "I\u0027m looking for ",
+        "userDefined": false
+      },
+      {
+        "text": "plyometric",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": false
+      },
+      {
+        "text": " workouts. What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d57fcee4-7dc1-4700-91c9-11291467d7d0",
+    "data": [
+      {
+        "text": "Can you recommend ",
+        "userDefined": false
+      },
+      {
+        "text": "intermediate",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "strength",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": false
+      },
+      {
+        "text": " exercises for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91e939e5-faaa-4c40-9270-8a112d3791f7",
+    "data": [
+      {
+        "text": "I need some ",
+        "userDefined": false
+      },
+      {
+        "text": "stretching",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": true
+      },
+      {
+        "text": " exercises to improve my flexibility.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27240883-3b36-4678-afd3-abcf20b46d49",
+    "data": [
+      {
+        "text": "What are some ",
+        "userDefined": false
+      },
+      {
+        "text": "beginner",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": true
+      },
+      {
+        "text": " level ",
+        "userDefined": false
+      },
+      {
+        "text": "cardio",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": true
+      },
+      {
+        "text": " workouts I can try?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2a2be18-222a-452b-ad76-09b6a264b3e1",
+    "data": [
+      {
+        "text": "I\u0027m at an ",
+        "userDefined": false
+      },
+      {
+        "text": "intermediate",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": true
+      },
+      {
+        "text": " level in ",
+        "userDefined": false
+      },
+      {
+        "text": "powerlifting",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": true
+      },
+      {
+        "text": ". What exercises should I focus on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9f9dc20-793c-4df0-a15d-92941e028543",
+    "data": [
+      {
+        "text": "Can you suggest some ",
+        "userDefined": false
+      },
+      {
+        "text": "Olympic_weightlifting",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": true
+      },
+      {
+        "text": " exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76cfa4d3-6c42-472d-9257-6792000d34ef",
+    "data": [
+      {
+        "text": "I\u0027m looking to improve my ",
+        "userDefined": false
+      },
+      {
+        "text": "plyometrics",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": true
+      },
+      {
+        "text": " skills. Can you give me some ",
+        "userDefined": false
+      },
+      {
+        "text": "intermediate",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": true
+      },
+      {
+        "text": " exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d91456de-ddfa-41fd-9bab-101b5eed3d60",
+    "data": [
+      {
+        "text": "I\u0027m new to ",
+        "userDefined": false
+      },
+      {
+        "text": "strength",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": true
+      },
+      {
+        "text": " training. What ",
+        "userDefined": false
+      },
+      {
+        "text": "beginner",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": true
+      },
+      {
+        "text": " exercises should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be2b129a-1366-45ac-b0f9-a9c7127e3229",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "stretching",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": true
+      },
+      {
+        "text": " exercises would you recommend for an ",
+        "userDefined": false
+      },
+      {
+        "text": "expert",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "950206b2-540b-4768-b5de-fcab80158bf6",
+    "data": [
+      {
+        "text": "I\u0027ve heard a lot about ",
+        "userDefined": false
+      },
+      {
+        "text": "strongman",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": true
+      },
+      {
+        "text": " training. What ",
+        "userDefined": false
+      },
+      {
+        "text": "intermediate",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": true
+      },
+      {
+        "text": " exercises can I try?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ff0bfc7-3948-4fa9-af75-d9be1f494624",
+    "data": [
+      {
+        "text": "I want to start doing ",
+        "userDefined": false
+      },
+      {
+        "text": "cardio",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": true
+      },
+      {
+        "text": ". Can you suggest some exercises for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24ff17b1-00b0-4cc7-a934-c320ea0d38d7",
+    "data": [
+      {
+        "text": "Can you suggest some ",
+        "userDefined": false
+      },
+      {
+        "text": "powerlifting",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": true
+      },
+      {
+        "text": " exercises for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "755d2243-d36d-4e4f-9e7d-120a1d68e2c7",
+    "data": [
+      {
+        "text": "I\u0027m interested in trying ",
+        "userDefined": false
+      },
+      {
+        "text": "Olympic_weightlifting",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": true
+      },
+      {
+        "text": ". What ",
+        "userDefined": false
+      },
+      {
+        "text": "intermediate",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": true
+      },
+      {
+        "text": " exercises would you suggest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9c24094-3e51-48b6-a426-6323a4cd1096",
+    "data": [
+      {
+        "text": "What are some ",
+        "userDefined": false
+      },
+      {
+        "text": "beginner",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": true
+      },
+      {
+        "text": " exercises to start my work out?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fd4f5e2-ba7d-4cb9-ba5c-f35179cc57f6",
+    "data": [
+      {
+        "text": "I\u0027ve been doing ",
+        "userDefined": false
+      },
+      {
+        "text": "strength",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": true
+      },
+      {
+        "text": " training for a while, and I need some ",
+        "userDefined": false
+      },
+      {
+        "text": "expert",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": true
+      },
+      {
+        "text": " level workouts.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2170c10d-3d98-4e62-84c1-30ec1645acc1",
+    "data": [
+      {
+        "text": "Can you recommend some ",
+        "userDefined": false
+      },
+      {
+        "text": "stretching",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": true
+      },
+      {
+        "text": " exercises for an ",
+        "userDefined": false
+      },
+      {
+        "text": "intermediate",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": true
+      },
+      {
+        "text": " level?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58e653e5-2ba0-4763-ae97-630e8740830e",
+    "data": [
+      {
+        "text": "I\u0027m a ",
+        "userDefined": false
+      },
+      {
+        "text": "beginner",
+        "meta": "@difficulty",
+        "alias": "difficulty",
+        "userDefined": true
+      },
+      {
+        "text": " looking to improve my ",
+        "userDefined": false
+      },
+      {
+        "text": "cardio",
+        "meta": "@trainingType",
+        "alias": "trainingType",
+        "userDefined": true
+      },
+      {
+        "text": ". What exercises should I start with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

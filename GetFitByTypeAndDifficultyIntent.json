@@ -1,0 +1,61 @@
+{
+  "id": "4828c32a-645c-4b5b-ae79-4f74951b66cd",
+  "name": "GetFitByTypeAndDifficultyIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "62399b06-5e5c-4311-aa3c-fe5337cd52b3",
+          "name": "trainingType",
+          "required": false,
+          "dataType": "@trainingType",
+          "value": "$trainingType",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "26638d2f-031f-4666-bbbc-7478e04187ff",
+          "name": "difficulty",
+          "required": false,
+          "dataType": "@difficulty",
+          "value": "$difficulty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

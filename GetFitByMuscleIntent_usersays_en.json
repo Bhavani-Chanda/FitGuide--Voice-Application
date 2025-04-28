@@ -1,0 +1,462 @@
+[
+  {
+    "id": "7d799b19-202e-477e-aefa-06a70d028507",
+    "data": [
+      {
+        "text": "What exercises can help me build stronger ",
+        "userDefined": false
+      },
+      {
+        "text": "forearms",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cec118ba-0e9b-4dee-b20c-77d1d836834f",
+    "data": [
+      {
+        "text": "I\u0027m focusing on my ",
+        "userDefined": false
+      },
+      {
+        "text": "chest",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": " muscles. What exercises can I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c749860a-936c-4a96-9c58-68ecf5e61bf2",
+    "data": [
+      {
+        "text": "Can you give me some good exercises for working out my ",
+        "userDefined": false
+      },
+      {
+        "text": "calves",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3657e837-caab-4aca-bd5a-550c3bcfc352",
+    "data": [
+      {
+        "text": "I want to tone my ",
+        "userDefined": false
+      },
+      {
+        "text": "abdominals",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": ". Any exercise ideas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "808653d9-01ed-46c8-a9ff-a99a84a34f09",
+    "data": [
+      {
+        "text": "What are some effective ",
+        "userDefined": false
+      },
+      {
+        "text": "triceps",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": " exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a49fc806-490b-4be5-ac07-c45fc87c622f",
+    "data": [
+      {
+        "text": "I\u0027m looking for exercises to strengthen my ",
+        "userDefined": false
+      },
+      {
+        "text": "traps",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": ". What do you suggest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f11905ac-ba4c-409e-a15e-3005483d9fdd",
+    "data": [
+      {
+        "text": "What exercises should I do to build my ",
+        "userDefined": false
+      },
+      {
+        "text": "quadriceps",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f3fb8f9-87af-4295-8ac8-77627c0a3034",
+    "data": [
+      {
+        "text": "How can I strengthen my ",
+        "userDefined": false
+      },
+      {
+        "text": "neck",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": " muscles? Any recommendations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23e4a2b7-2831-4b4b-95d3-00f876d90a1a",
+    "data": [
+      {
+        "text": "Can you suggest exercises for my ",
+        "userDefined": false
+      },
+      {
+        "text": "middle back",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a05000f4-c8b1-45c8-b36b-06497560704b",
+    "data": [
+      {
+        "text": "What are some good ",
+        "userDefined": false
+      },
+      {
+        "text": "lower back",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": " exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85725d47-bbf4-4f08-a0e3-4ef7f8162496",
+    "data": [
+      {
+        "text": "I\u0027m focusing on my ",
+        "userDefined": false
+      },
+      {
+        "text": "lats",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": ". What exercises should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2d28757-abfb-4155-b930-eeec49065efc",
+    "data": [
+      {
+        "text": "Can you recommend exercises for my ",
+        "userDefined": false
+      },
+      {
+        "text": "hamstrings",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb7e2680-a026-4dba-a8fa-26080820241c",
+    "data": [
+      {
+        "text": "What exercises are best for ",
+        "userDefined": false
+      },
+      {
+        "text": "glutes",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24f4326b-3db9-4faa-ad96-6ca861d013b8",
+    "data": [
+      {
+        "text": "I\u0027m trying to strengthen my ",
+        "userDefined": false
+      },
+      {
+        "text": "forearms",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": ". What exercises can I try?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d4d77bf-521e-4f84-a85d-bfd545ce238e",
+    "data": [
+      {
+        "text": "Can you provide some exercises for ",
+        "userDefined": false
+      },
+      {
+        "text": "chest",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": " muscles?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02f5d3f1-0f3b-4613-b8dc-815797f1acc0",
+    "data": [
+      {
+        "text": "How can I work on my ",
+        "userDefined": false
+      },
+      {
+        "text": "calves",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": "? Any exercise suggestions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a87d7657-2200-44c1-a7b2-327a145ac6bf",
+    "data": [
+      {
+        "text": "What are some good ",
+        "userDefined": false
+      },
+      {
+        "text": "biceps",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": " exercises for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9a99110-63a1-4b91-b350-6769ff06294a",
+    "data": [
+      {
+        "text": "I\u0027m looking to build my ",
+        "userDefined": false
+      },
+      {
+        "text": "adductors",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": ". What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7f894ca-3e7f-4205-8b72-d58b62ce9582",
+    "data": [
+      {
+        "text": "Can you suggest some exercises for my ",
+        "userDefined": false
+      },
+      {
+        "text": "abductors",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e842bd23-eca3-4883-b2a0-f0164d9c8426",
+    "data": [
+      {
+        "text": "I want to strengthen my ",
+        "userDefined": false
+      },
+      {
+        "text": "abdominals",
+        "meta": "@muscle",
+        "alias": "muscle",
+        "userDefined": true
+      },
+      {
+        "text": ". What exercises do you recommend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

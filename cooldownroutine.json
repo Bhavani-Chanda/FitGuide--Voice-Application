@@ -1,0 +1,9 @@
+{
+  "id": "41cc015c-0a98-4e58-b9a3-7cb9992d0528",
+  "name": "cooldownroutine",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
