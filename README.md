@@ -15,9 +15,10 @@
 - Offering easy-to-understand, prompt responses to voice queries.
 
 ## Core Functionalities
-**1. GetFitByTypeAndDifficultyIntent:** Suggest exercises based on exercise type (strength, cardio, etc.) and difficulty level (beginner, intermediate, expert). 
-**2. GetFitByMuscleIntent:** Recommend exercises targeting specific muscle groups (e.g., biceps, glutes, lats).
-**3. WarmUpAndCoolDownExerciseIntent:** Provide lists of warm-up (pre-workout) and cool-down (post-workout) exercises.
+1. **GetFitByTypeAndDifficultyIntent:** Suggest exercises based on exercise type (strength, cardio, etc.) and difficulty level (beginner, intermediate, expert). 
+2. **GetFitByMuscleIntent:** Recommend exercises targeting specific muscle groups (e.g., biceps, glutes, lats).
+3. **WarmUpAndCoolDownExerciseIntent:** Provide lists of warm-up (pre-workout) and cool-down (post-workout) exercises.
+   
 Entities Used:
 1. trainingType: Defines the type of the training.
 2. Difficulty: Defines the difficulty level.
